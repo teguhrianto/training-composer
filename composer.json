@@ -1,0 +1,15 @@
+{
+    "name": "teguh/training-composer",
+    "description": "Try to Create a composer package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "teguhrianto22",
+            "email": "teguh.rianto22@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": "Hello.php"
+    }
+}
