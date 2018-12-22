@@ -11,5 +11,6 @@
     "require": {},
     "autoload": {
         "files": "Hello.php"
-    }
+    },
+    "version": "0.0.2"
 }
